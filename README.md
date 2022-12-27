@@ -1,4 +1,4 @@
-![Header](https://github.com/Duckin1/Duckin/blob/main/assets/header.png?raw=true) <!-- (https://kazan.hh.ru/resume/6e060b4fff058e0d020039ed1f435a6d776c39) -->
+![Header](https://github.com/Duckin1/Duckin1/blob/main/assets/header.png?raw=true) <!-- (https://kazan.hh.ru/resume/6e060b4fff058e0d020039ed1f435a6d776c39) -->
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django)
