@@ -8,4 +8,4 @@
 ### Contact me
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram)](https://t.me/almazwp)
 
-![Duckin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duckin1&show_icons=true&title_color=000000)
+<!-- ![Duckin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duckin1&show_icons=true&title_color=000000) -->
